@@ -1,0 +1,14 @@
+{
+	"name": "ractive-decorators-droptive",
+	"repo": "https://github.com/charltoons/droptive.git",
+	"description": "Ractive-decorators-droptive",
+	"version": "0.1.0",
+	"keywords": [],
+	"dependencies": {},
+	"development": {},
+	"license": "MIT",
+	"main": "Ractive-decorators-droptive.js",
+	"scripts": [
+		"Ractive-decorators-droptive.js"
+	]
+}

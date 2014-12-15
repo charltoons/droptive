@@ -1,0 +1,12 @@
+{
+	"name": "ractive-decorators-droptive",
+	"version": "0.1.0",
+	"author": "Charlton Roberts <charltonroberts@gmail.com> (https://charlton.io)",
+	"main": "Ractive-decorators-droptive.js",
+	"ignore": [
+		"**/.*",
+		"src",
+		"test",
+		"Gruntfile.js"
+	]
+}
